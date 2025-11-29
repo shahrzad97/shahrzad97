@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=black">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
 
 </div>
@@ -27,7 +26,7 @@ Master’s graduate in **Computer Engineering for Robotics and Smart Industry** 
 I build modern, responsive web applications with a focus on **user-centered design**, **real-time data interaction**, and **data-driven decision support**.
 
 💡 Passionate about merging design, data, and technology to create smart and intuitive digital solutions.  
-🗣️ Languages: English (C1) · Italian (B1 – improving daily) · Persian (native)
+🗣️ Languages: English (C1) · Italian (B1) · Persian (native)
 
 ---
 
@@ -48,7 +47,7 @@ Developed a web application for **real-time exercise monitoring for elderly user
 - Implemented **skeleton tracking** and **dynamic overlays** to enhance guidance accuracy (↑80%)  
 - Used **WebSocket** for low-latency (<100 ms) interaction  
 - Enabled **remote monitoring** and feedback for doctors  
-🧩 Tech: React · TypeScript · Node.js · Vite · WebSocket · Rust · Bootstrap  
+🧩 Tech: React · TypeScript · Node.js · Vite · WebSocket · Bootstrap  
 🔗 [Project Repository](https://github.com/shahrzad97/Interactive-Real-Time-Exercise-Monitoring-System-with-Visual-and-Audio-Feedback-)
 
 ---
@@ -68,7 +67,7 @@ Developed a web application for **real-time exercise monitoring for elderly user
 
 ## 🧰 Technical Skills  
 
-**Languages:** Python · JavaScript · TypeScript · C++ · C# · SQL · Rust  
+**Languages:** Python · JavaScript · TypeScript · C++ · C# · SQL
 **Frameworks:** React · Flask · Node.js · Bootstrap · Vite  
 **Databases:** PostgreSQL · MySQL · MongoDB  
 **Data Tools:** Power BI · Pandas · NumPy · Matplotlib  
